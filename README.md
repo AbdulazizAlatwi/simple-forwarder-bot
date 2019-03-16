@@ -4,7 +4,7 @@
 1. 在 [@botfather](https://t.me/botfather) 处申请一个bot的API Token
 2. 在服务器上执行下列命令（请先安装git)
 ```
-git clone https://github.com/Tooruchan/simple-forwarder-bot
+git clone https://github.com/AbdulazizAlatwi/simple-forwarder-bot
 pip3 install PyTelegramBotAPI==2.2.3
 pip3 install telebot
 ```
